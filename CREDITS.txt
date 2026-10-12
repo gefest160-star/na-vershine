@@ -1,0 +1,33 @@
+НА ВЕРШИНЕ — использованные материалы
+======================================
+
+МУЗЫКА
+Все треки: Kevin MacLeod (incompetech.com)
+Лицензия: Creative Commons Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/
+
+  audio/music/menu.mp3            «Night on the Docks – Sax»
+  audio/music/ch1_restaurant.mp3  «Lobby Time»
+  audio/music/ch1.mp3             «Backed Vibes Clean»
+  audio/music/ch2.mp3             «I Knew a Guy»
+  audio/music/ch3.mp3             «Comfortable Mystery»
+  audio/music/ch4.mp3             «Private Reflection»
+  audio/music/ch5.mp3             «Colorless Aura»
+  audio/music/ch5_party.mp3       «Frost Waltz»
+  audio/music/credits.mp3         «Sad Trio»
+
+Лицензия требует указывать автора — он указан в финальных титрах игры.
+
+ЗВУКОВЫЕ ЭФФЕКТЫ
+Живые записи: Joseph Sardin, BigSoundBank.com — свободная лицензия (аналог CC0), указание автора не обязательно.
+  затвор (#1985), выстрел (#0437), зажигалка (#2131), гром (#3113, #3114, #3179), дождь (#1289, #1290),
+  ветер (#0146), ресторан (#0624), дверь (#1704), шаги (#0165), удары (#2460, #2461, #2463), стекло (#0148),
+  телефон (#3301), камин (#0030), причал (#1444), ключи (#2425), замок (#0037), печатный станок (#3404),
+  подпись (#3236), бумага (#2212).
+Остальные звуки (сирена, гул, щелчки интерфейса) синтезированы скриптом tools/gen_sfx.py.
+
+ОЗВУЧКА
+Реплики синтезированы нейросетевыми голосами Microsoft Edge (пакет edge-tts) скриптом tools/gen_voice.py.
+
+ГРАФИКА, КОД, ТЕКСТ
+Вся геометрия собирается из примитивов кодом (scripts/build.gd, furn.gd, levels.gd, human.gd).
+Движок: Godot Engine 4.7 (лицензия MIT).

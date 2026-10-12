@@ -1,0 +1,21 @@
+# Эти звуки — живые записи (tools/import_sfx.py); gen_sfx.py их не перезаписывает.
+bolt
+door
+fire
+glass
+gunshot
+keys
+lighter
+locker
+murmur
+paper
+pen
+press
+punch
+rain
+rain_heavy
+ring
+step
+thunder
+waves
+wind

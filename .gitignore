@@ -1,0 +1,19 @@
+# Кэш и импорт Godot (создаются автоматически)
+.godot/
+*.translation
+
+# Готовая сборка — раздаётся через Releases, а не хранится в репозитории
+build/
+
+# Окружение и тяжёлые рабочие файлы инструментов
+tools/.venv/
+tools/voice_cache/
+tools/sfx_src/
+tools/sfx_synth_backup/
+tools/__pycache__/
+tools/*.log
+tools/*.err
+
+# Мусор
+*.tmp
+*.import~
